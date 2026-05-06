@@ -1,7 +1,7 @@
 import time
 import threading
 import multiprocessing
-import math
+
 
 # ==========================================
 # 1. FUNÇÕES ALVO DO TESTE
